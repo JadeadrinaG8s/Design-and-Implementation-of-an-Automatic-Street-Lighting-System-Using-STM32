@@ -243,7 +243,8 @@ GND  -----| GND           |
 
 ## Expected Output
 <img width="589" height="497" alt="Screenshot 2026-08-19 115117" src="https://github.com/user-attachments/assets/e686c41e-35db-4aa0-aebb-835d2d2a0da3" />
-
+## output
+<img width="1146" height="565" alt="image" src="https://github.com/user-attachments/assets/baa4bad8-78e9-4f03-a1ac-907fe094e32c" />
 
 ### Bright Condition
 
